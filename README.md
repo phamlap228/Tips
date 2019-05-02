@@ -1,4 +1,7 @@
+**[UNMAINTAINED]** This project is no more used by our products and, consequently, is not maintain by our developers anymore. Feel free to fork it or create your own library from it.
+
 # react-native-tips
+
 [![Build Status](https://travis-ci.org/frichti/react-native-tips.svg?branch=master)](https://travis-ci.org/frichti/react-native-tips)
 
 This module is used to guide your new comers throughout your app. Easily and Effectively.
